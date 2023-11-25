@@ -1,9 +1,8 @@
-import Avatar from '@/components/avatar'
-import Carousel from '@/components/carousel'
-import Footer from '@/components/footer'
-import LoveWoman from '@/components/loveWoman'
-import NavBar from '@/components/navbar'
-import Talk from '@/components/talk'
+import Carousel from '@/components/carousel';
+import Footer from '@/components/footer';
+import LoveWoman from '@/components/loveWoman';
+import NavBar from '@/components/navbar';
+import Talk from '@/components/talk';
 import React, { useState } from 'react';
 
 import "@/app/globals.css";

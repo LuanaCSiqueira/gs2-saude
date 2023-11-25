@@ -1,6 +1,5 @@
-import Carousel from '@/components/carousel'
-import Footer from '@/components/footer'
-import NavBar from '@/components/navbar'
+import Footer from '@/components/footer';
+import NavBar from '@/components/navbar';
 import React, { useState } from 'react';
 
 import "@/app/globals.css";
