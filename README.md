@@ -1,19 +1,17 @@
-## Para executar o projeto, siga as instruções
+Global Solution
+Inovação e tecnologia moldando o futuro da saúde: prevenção, automação e precisão​.
 
+PARCERIA
 
-Primeiro certifique-se que o NodeJS está instalado junto ao NextJS e React.
+A Hapvida NotreDame Intermédica é, hoje, a maior operadora de saúde do Brasil, com mais 16,1 milhões de beneficiários de saúde e odontologia.
 
+OBJETIVOS
+O objetivo desta Entrega de Front-End (HTML + CSS + JS) é o de consolidar os dados desta problemática em um Portal (conjunto de sites interligados) e sugerir uma solução.
 
-Depois acesse o diretório do projeto e instale os requisitos.
+Considerando que este projeto vale prêmios, algumas regras serão consideradas para que os alunos disputem de uma forma equalitária, ou seja, considerando o que foi ministrado no Portal até a Fase 7.
 
+O seu site conterá 5 páginas (exatamente) que abordarão a temática desta GS.
 
-```bash
-npm install
-```
+A Partir do norte sugerido nos slides, o grupo pode derivar para os caminhos de sua escolha.
 
-Por fim, inicie o servidor e acesse localhost:3000.
-
-
-```bash
-npm run dev
-```
+Privilegie a Interatividade do usuário com o Site e a sua Usabilidade.
